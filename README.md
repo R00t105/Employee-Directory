@@ -33,3 +33,14 @@ It allows performing basic **CRUD operations** (Create, Read, Update, Delete) on
 ---
 
 ## 📂 Project Structure
+
+├── main/java/com/example/employee
+│ ├── controller/EmployeeController.java
+│ ├── service/EmployeeService.java
+│ ├── model/Employee.java
+│ └── repository/EmployeeRepository.java
+│
+└── main/resources/templates
+├── employees.html (List employees)
+├── add-employee.html
+├── update-employee.html
