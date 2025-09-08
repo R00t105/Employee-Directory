@@ -32,15 +32,12 @@ It allows performing basic **CRUD operations** (Create, Read, Update, Delete) on
 
 ---
 
-## 📂 Project Structure
+📸 Screenshots
 
-├── main/java/com/example/employee
-│ ├── controller/EmployeeController.java
-│ ├── service/EmployeeService.java
-│ ├── model/Employee.java
-│ └── repository/EmployeeRepository.java
-│
-└── main/resources/templates
-├── employees.html (List employees)
-├── add-employee.html
-├── update-employee.html
+<img width="1365" height="597" alt="image" src="https://github.com/user-attachments/assets/22283d6b-e566-4ecb-8840-75e5b73fda31" />
+
+<img width="1365" height="590" alt="image" src="https://github.com/user-attachments/assets/52ac8725-42ac-40e0-9a8e-5b0aabcc5954" />
+
+<img width="1364" height="592" alt="image" src="https://github.com/user-attachments/assets/e43edd61-c521-40f4-b164-d753133ea111" />
+
+
